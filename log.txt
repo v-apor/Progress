@@ -1,3 +1,6 @@
 11/08/2021 | Kaggle: External Libraries (30 Days of ML: Day 7)
 12/08/2021 | Kaggle: Loading Data Pandas (30 DoML: Day 8) | Recursion GCI livestream basics | Image manipulation (RGB) CS101
 13/08/2021 | Kaggle: ML Model (DecisionTreeRegressor for house price prediction) | CS 101 Image manipulation (greyscale, change specific color etc)
+08/05/2022 | MIT OCW 6.0001: Intro to CS and Programming in Python" completed. + SQL Revision
+09/05/2022 | 
+25/05/2022 | LinkedList implementation append, prepend, pop and pop_first in Python
