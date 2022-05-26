@@ -4,3 +4,5 @@
 08/05/2022 | MIT OCW 6.0001: Intro to CS and Programming in Python" completed. + SQL Revision
 09/05/2022 | 
 25/05/2022 | LinkedList implementation append, prepend, pop and pop_first in Python
+26/05/2022 | LinkedList implementation of get, set, insert and remove using python
+
