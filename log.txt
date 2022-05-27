@@ -5,4 +5,4 @@
 09/05/2022 | 
 25/05/2022 | LinkedList implementation append, prepend, pop and pop_first in Python
 26/05/2022 | LinkedList implementation of get, set, insert and remove using python
-27/05/2022 | Reversing a LinkedList
+27/05/2022 | Reversing a LinkedList27/05/2022 | DoublyLinkedList base class anprint_list function

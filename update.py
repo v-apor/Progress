@@ -10,7 +10,7 @@ file = open("log.txt", 'a')
 file.write(comment)
 file.close()
 
-commit_msg = "log" + time
+commit_msg = "log " + time
 
 subprocess.call(["git", "add", "."])
 subprocess.call(["git", "commit", "-m", commit_msg])
